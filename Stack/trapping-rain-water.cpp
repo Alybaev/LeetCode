@@ -1,7 +1,12 @@
-/*315 / 315 test cases passed.
+/*
+315 / 315 test cases passed.
 Status: Accepted
 Runtime: 4 ms
-Memory Usage: 9.3 MB*/
+Memory Usage: 9.3 MB
+Submitted: 1 week ago
+Your runtime beats 97.00 %
+your memory usage beats 27.98 %
+*/
 
 class Solution {
 public:
